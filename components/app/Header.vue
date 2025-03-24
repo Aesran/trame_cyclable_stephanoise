@@ -148,7 +148,7 @@
     </div>
 
     <!-- Header mobile -->
-
+    
     <transition
       enter-active-class="duration-200 ease-out"
       enter-from-class="opacity-0 scale-95"
@@ -195,6 +195,7 @@
                 </NuxtLink>
 
                 <!-- Compteurs -->
+                 <!--
                 <hr class="h-px bg-gray-200 border-0">
 
                 <NuxtLink
@@ -224,6 +225,7 @@
                     Comparaison voiture/vélo
                   </span>
                 </NuxtLink>
+                -->
 
                 <!-- Autres -->
                 <hr class="h-px bg-gray-200 border-0">
