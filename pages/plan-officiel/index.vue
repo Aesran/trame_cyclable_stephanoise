@@ -12,7 +12,7 @@
 const { getRevName } = useConfig();
 
 const description = `Découvrez le plan officiel des ${getRevName()}, le futur réseau vélo Stéphanois`;
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const COVER_IMAGE_URL = 'https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-logo-carte.png';
 
 useHead({
   title: `Plan des ${getRevName()}`,
