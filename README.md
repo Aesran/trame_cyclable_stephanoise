@@ -11,7 +11,7 @@ On y retrouve en particulier :
 
 ## Est-il possible de réutiliser Cyclopolis pour un autre projet ?
 
-Oui ! Consulter la page du github de la version originale : https://github.com/lavilleavelo/cyclopolis pour le mettre en place dans votre votre.
+Oui ! Consulter la page du github de la version originale : https://github.com/lavilleavelo/cyclopolis pour le mettre en place dans votre ville. 
 
 le site :
 - est open source, le code est entièrement disponible sur Github.
