@@ -1,21 +1,21 @@
-# Cyclopolis
+# La Trame Cyclable Stéphanoise
 
-## Qu'est-ce que Cyclopolis ?
-Il s'agit d'une plateforme web permettant la visualisation d'un projet de réseau cyclable structurant.
+## Qu'est-ce que La Trame Cyclable Stéphanoise ?
+Il s'agit d'une plateforme web permettant la visualisation du projet de réseau cyclable structurant.
 
-Entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo" qui a été dupliquée avec leur autorisation par Ocivélo sur la métropole stéphanoise, cette plateforme a pour objectif principal de suivre le développement du projet du plan vélo de la métropole Stéphanoise".
+C'est une dupliquation du site Cyclopolis développée par des bénévoles de l'association lyonnaise "La Ville à Vélo" avec leur autorisation par Ocivélo sur la métropole stéphanoise. Il a été entièrement réalsier par des bénévoles d'Ocivélo et O2 de l'oxygene qui a pour objectif principal de suivre le développement du projet du plan vélo de la métropole Stéphanoise".
 
 On y retrouve en particulier :
 - une carte intéractive permettant de visualiser les tracés des voies cyclables.
 - une page détaillée sur chacune des voies cyclables.
 
-## Est-il possible de réutiliser Cyclopolis pour un autre projet ?
+## Est-il possible de réutiliser site pour un autre projet ?
 
 Oui !
 
-Vous êtes une association, ou un particulier ? Il y a un projet de réseau cyclable structurant dans votre ville et vous souhaitez suivre son développement ? Vous pouvez tout à fait réutiliser Cyclopolis pour votre projet.
+Vous êtes une association, ou un particulier ? Il y a un projet de réseau cyclable structurant dans votre ville et vous souhaitez suivre son développement ? Vous pouvez tout à fait réutiliser site pour votre projet.
 
-Cyclopolis :
+le site :
 - est open source, le code est entièrement disponible sur Github.
 - a une licence ouverte, vous avez donc le droit de réutiliser le code pour votre projet.
 - est gratuit a opérer (pas de base de données, pas de serveur dédié, pas de coût de maintenance).

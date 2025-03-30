@@ -3,14 +3,12 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-          {{ getRevName() }}, c'est quoi ?
+          La Trame Cyclable Stéphanoise, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
           C'est le nom donné au projet qui a pour objectif de suivre le développement des infrastructures dédiées au vélo sur la métropole de Saint-Étienne et ses environs.
           
-          Ce site permet de visualiser l’état des lieux des aménagements existants, d’analyser les linéaires réalisés et de mesurer l’évolution du réseau cyclable jusqu’à 2026 et 2030, dans le cadre du plan vélo. 
-          
-          Grâce à cet outil, chaque citoyens peuvent accéder à des données actualisées, cartographiées et détaillées sur les pistes cyclables, bandes cyclables, voies vertes et autres infrastructures en faveur de la mobilité douce.<br>
+          Ce site permet de visualiser l’état des lieux des aménagements existants, d’analyser les linéaires réalisés et de mesurer l’évolution du réseau cyclable jusqu’à 2026 et 2030, dans le cadre du plan vélo. <br>
         </p>
       </div>
     </div>
@@ -41,7 +39,7 @@
                   Budget
                 </dt>
                 <dd class="order-1 text-5xl font-extrabold text-lvv-blue-600">
-                  31M€
+                  41M€
                 </dd>
               </div>
             </dl>
