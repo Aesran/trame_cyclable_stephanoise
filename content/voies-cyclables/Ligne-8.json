@@ -771,10 +771,11 @@
                                           {
                                               "type": "Feature",
                                                "properties": {
-                                                "id": "Sorbiers 2",
+                                                "id": "chemin-de-Garras",
                                                 "line": 8,
-                                                "name": "Sorbiers2",
+                                                "name": "chemin de Garras",
                                                 "status": "done",
+                                                "doneAt": "01/01/2022",
                                                 "type": "voie-verte",
                                                 "link": ""
                                               },
