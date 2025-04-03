@@ -76,7 +76,7 @@ const statusFilters = ref([
   { label: 'Terminé', isEnable: true, statuses: ['done'] },
   { label: 'En travaux', isEnable: true, statuses: ['wip', 'tested'] },
   { label: 'Prévu pour 2026', isEnable: true, statuses: ['planned', 'variante'] },
-  { label: 'Reporté', isEnable: true, statuses: ['postponed', 'variante-postponed'] },
+  { label: 'Après 2026', isEnable: true, statuses: ['postponed', 'variante-postponed'] },
   { label: 'Inconnu', isEnable: true, statuses: ['unknown'] }
 ]);
 
