@@ -7,13 +7,13 @@
             <span class="sr-only">Observatoire des politiques cyclables</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-logo-carte.png"
+              src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-blanc.png"
               :alt="`logo ${getAssoName()}`"
             >
             <img
               class="h-8 w-auto sm:h-10"
               src="https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/0-Logo-obs-des-amenagements.png"
-              alt="Logo observateur des aménagements cyclables"
+              alt="Logo trame cyclables Stéphanois"
             >
           </NuxtLink>
         </div>
