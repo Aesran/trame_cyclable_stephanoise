@@ -26,14 +26,17 @@ Le tracé de la voie verte suivrait la rivière, en grande partie sur la platefo
 
 ## Etat actuel
 
--La rue Juquel a été aménagée en 2023 à Andrézieux-Bouthéon. 
+- La rue Juquel a été aménagée en 2023 à Andrézieux-Bouthéon. 
+
+- Une piste cyclable de 1400 mètres a été créée en 2025 entre Ratarieu et la Fouillouse. Ce tronçon longe la M1082, la piste cyclable est séparée de la circulation automobile, avec une bande herbée et des plantations, garantissant ainsi la sécurité des usagers.
+ 
 
 
 ## Projet
 
 Toujours à Andrézieux-Bouthéon, la rue Ch.De Gaulle devrait être aménagée en 2025.
 
-La route métropolitaine entre la Fouillouse et le carrefour de Ratarieux devrait être aménagée avant fin 2026. C’est une solution pour les mobilités du quotidien en attendant un tracé sur l’ancienne   ligne de chemin de fer de 1827, prévu à plus long terme. Cet autre tracé sera plus orienté sur le tourisme à vélo et les balades en famille. 
+C’est une solution pour les mobilités du quotidien en attendant un tracé sur l’ancienne   ligne de chemin de fer de 1827, prévu à plus long terme. Cet autre tracé sera plus orienté sur le tourisme à vélo et les balades en famille. 
 
  
 Un groupement d’associations nommé ECLISSE commence à s’organiser pour préparer les festivités du bicentenaire de cette ligne historique. Elles désirent également que le bicentenaire soit l’occasion de bâtir une infrastructure durable autour ou sur son parcours. (une musée du train, des panneaux d’informations, des chemins de randonnée, et pourquoi par une voie verte…).
@@ -71,6 +74,8 @@ Une voie verte de 2 km valorisant déjà cette ligne de chemin de fer de 1827, l
 Tout est à faire 
 
 ## Archive des réalisations
+2025 - Aménagement le long de la M1082 entre Ratarieu et la Fouillouse 
+
 2025 -  Rue Ch. De Gaulle - Andrézieux-Bouthéon
 
 2023 - Rue Juquel - Andrézieux-Bouthéon
