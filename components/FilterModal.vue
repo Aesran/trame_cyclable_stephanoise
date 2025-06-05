@@ -77,8 +77,7 @@ const statusFilters = ref([
   { label: 'En travaux', isEnable: true, statuses: ['wip', 'tested'] },
   { label: 'Prévu pour 2026', isEnable: true, statuses: ['planned', 'variante'] },
   { label: 'Après 2026', isEnable: true, statuses: ['postponed', 'variante-postponed','unknown'] },
-  { label: 'Inconnu', isEnable: true, statuses: }
-]);
+  ]);
 
 const typeFilters = ref([
   { label: 'Bidirectionnelle', isEnable: true, types: ['bidirectionnelle'] },
