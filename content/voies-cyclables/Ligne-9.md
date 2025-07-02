@@ -2,7 +2,7 @@
 name: Voie Stéphanoise 9
 line: 9
 from: CHU
-to: Sorbires
+to: Sorbiers
 description: Le grand contournement cyclable au Nord de Saint-Étienne.
 cover: https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/hero.jpeg
 ---
