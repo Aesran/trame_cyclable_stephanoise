@@ -64,9 +64,9 @@ Il est impératif de créer un aménagement de qualité structurant et continu d
 
 2022 - Rue A.Haubtmann à Saint-Etienne - piste cyclable 0,8 km
 
-2021 - Saint Chamond - Rue du 17 octobre 1967 vers le magasin Leclerc
+2022 - Saint Chamond - Rue du 17 octobre 1967 vers le magasin Leclerc
 
-2020 - 2018 - Parc Novaciérie et rue Jean Rivaud 
+2020 - 2012 - Parc Novaciérie et rue Jean Rivaud 
 
 2018 - Parc de la Platière à la Grand-Croix - 0,8 km
 
@@ -75,3 +75,4 @@ Il est impératif de créer un aménagement de qualité structurant et continu d
 ??? - Quai de la Rive à Saint-Chamond 
 
 ??? Axe Givors - Saint-Romain-en-Gier  (CVCB Chemin des Cornets - 2022) 
+
