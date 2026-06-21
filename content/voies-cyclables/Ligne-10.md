@@ -40,6 +40,9 @@ C’est une solution pour les mobilités du quotidien en attendant un tracé sur
 
  
 Un groupement d’associations nommé ECLISSE commence à s’organiser pour préparer les festivités du bicentenaire de cette ligne historique. Elles désirent également que le bicentenaire soit l’occasion de bâtir une infrastructure durable autour ou sur son parcours. (une musée du train, des panneaux d’informations, des chemins de randonnée, et pourquoi par une voie verte…).
+
+[Découvrez le site officiel de la voie verte du Furan](https://voie-verte-furan.fr)
+
 [Pour obtenir plus d’informations sur la création et les objectifs de cette nouvelle association ECLISSE :](https://www.if-saint-etienne.fr/societe/200-ans-du-rail-en-europe-leclisse-veut-lancer-la-machine-a-saint-etienne)
 
 [La voie verte du Furan, la jonction entre Eurovélo EV6 – Loire à vélo et Eurovélo EV17 – Via Rhona](https://raw.githubusercontent.com/Aesran/voies_stephanoises/refs/heads/main/assets/L10-Voie-verte-Furan-place-dans-schema-velo-national.jpeg)
