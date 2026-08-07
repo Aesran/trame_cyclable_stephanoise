@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "Ligne-6",
 "features": [
 { "type": "Feature", "properties": { "id": "Rue_Claude_Odde", "line": 6, "name": "Rue Claude Odde", "status": "done", "doneAt": "01/01/2019", "type": "bidirectionnelle", "link": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 4.381600677354754, 45.458955329535172 ], [ 4.385886047935173, 45.459572577592922 ] ] } },
 { "type": "Feature", "properties": { "id": "Allée_Guy_Huguet", "line": 6, "name": "Allée Guy Huguet", "status": "done", "doneAt": "01/01/2019", "type": "bidirectionnelle", "link": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 4.385886047935173, 45.459572577592922 ], [ 4.386326145552715, 45.459649750016013 ], [ 4.388411825566806, 45.459290729583245 ], [ 4.388796510251325, 45.459245330960954 ] ] } },
